@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I'm Japanese Frontend Engineer
 - 🏦 I’m currently working for a web development company in Osaka, Japan.
 - 🌱 I’m currently learning **React(Next.js), TypeScript, Svelte, and English**!
-- 📝 I write technical articles on zenn.dev (Japanese Only...)
+- 📝 I write technical articles on [zenn.dev](https://zenn.dev/miruoon_892) (Japanese Only...)
 - 💬 Ask me about **TypeScript, React(Next.js), Vue(Nuxt.js), Svelte, Git**
 - How to reach me: [@miruoon](https://twitter.com/miruoon) on Twitter
 - 😄 Pronouns: She/Her
