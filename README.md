@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📝 I write technical articles on [zenn.dev](https://zenn.dev/miruoon_892) (Japanese Only...)
 - 💬 Ask me about **TypeScript, React(Next.js), Vue(Nuxt.js), Svelte, Git**
 - How to reach me: [@miruoon](https://twitter.com/miruoon) on Twitter
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: ~~She/Her~~  They/Their
 
 ### My Github Stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=miily8310s&show_icons=true&theme=dracula)
